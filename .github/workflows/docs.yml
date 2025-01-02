@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+
 jobs:
   build-docs:
     runs-on: ubuntu-latest
@@ -14,31 +15,36 @@ jobs:
         uses: actions/checkout@v3
 
       # 2. Set up Python
-      - name: Set up Python 3.x
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: "3.x"
 
-      # 3. Install Sphinx (and any other dependencies)
-      - name: Install dependencies
+      # 3. Install uv
+      - name: Install uv
         run: |
           python -m pip install --upgrade pip
-          pip install sphinx
+          pip install uv
 
-      # 4. Build the docs
+      # 4. Use uv to install dependencies from pyproject.toml / uv.lock
+      - name: Install project dependencies with uv
+        run: |
+          uv install
+
+      # 5. Build the docs
       - name: Build Sphinx docs
         run: |
           cd docs
           make html
 
-      # 5. Copy generated docs into site/
+      # 6. Copy the generated HTML into site/
       - name: Copy HTML to site/
         run: |
           rm -rf site  # remove old site folder if it exists
           mkdir -p site
           cp -r docs/_build/html/* site/
 
-      # 6. Commit and push changes back to the repo
+      # 7. Commit and push changes back to the repo
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
