@@ -12,6 +12,10 @@ documentation for details.
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: Committees:
 
+   content/event
+   content/communications
+   content/online-community
+   content/open-source
