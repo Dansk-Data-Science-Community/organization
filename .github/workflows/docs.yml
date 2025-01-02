@@ -29,7 +29,7 @@ jobs:
       # 4. Use uv to install dependencies from pyproject.toml / uv.lock
       - name: Install project dependencies with uv
         run: |
-          uv install
+          uv sync
 
       # 5. Build the docs
       - name: Build Sphinx docs
