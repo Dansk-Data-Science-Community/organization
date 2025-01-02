@@ -35,7 +35,7 @@ jobs:
       - name: Build Sphinx docs
         run: |
           cd docs
-          make html
+          uv run make html
 
       # 6. Copy the generated HTML into site/
       - name: Copy HTML to site/
