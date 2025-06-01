@@ -4,7 +4,7 @@ Welcome to the organizational documentation for the Danish Data Science Communit
 
 ## About the Community
 
-The Danish Data Science Community is an association dedicated to fostering data science knowledge, collaboration, and innovation within Denmark. We bring together data scientists, researchers, students, and industry professionals to advance the field of data science.
+The Danish Data Science Community is an association dedicated to fostering data science knowledge, collaboration, and innovation within Denmark. We bring together data, AI and machine learning researchers, engineers, students, and industry professionals to advance the field of data science.
 
 ## Organizational Structure
 
@@ -29,4 +29,4 @@ For general inquiries about the organization or to express interest in joining a
 
 ---
 
-*This documentation is maintained by the Danish Data Science Community. Last updated: $(date '+%B %Y')*
+*This documentation is maintained by the Danish Data Science Community.
