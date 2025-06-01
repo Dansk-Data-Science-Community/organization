@@ -1,29 +1,32 @@
-# Organization
+# Danish Data Science Community - Organization Documents
 
-Welcome to the central hub for the Danish Data Science Community's organizational documentation. This repository houses the governing documents, policies, and guidelines that define the structure and operations of our various initiatives, committees, and projects.
+Welcome to the organizational documentation for the Danish Data Science Community. This repository contains the governance structure and operational guidelines for our association.
 
-The complete documentation is available at: https://dansk-data-science-community.github.io/organization/
+## About the Community
 
-## Contributing to the Documentation
-1. Make your changes:
-   - Documentation files are located in `docs/`
-   - Files use reStructuredText format (.rst)
-   - Edit existing files or create new ones as needed
+The Danish Data Science Community is an association dedicated to fostering data science knowledge, collaboration, and innovation within Denmark. We bring together data scientists, researchers, students, and industry professionals to advance the field of data science.
 
-2. Build the documentation locally:
-   ```bash
-   cd docs
-   make html
-   ```
-   The built documentation will be available in `docs/_build/html/`
+## Organizational Structure
 
-3. Preview changes:
-   - Open `docs/_build/html/index.html` in your web browser
-   - Or serve it locally using Python:
-     ```bash
-     python -m http.server --directory _build/html
-     ```
-4. Publish changes
-   Commit your changes and push to the main branch
--  The documentation will automatically build and deploy via GitHub Actions
-- Changes will be live in a few minutes at the documentation URL
+Our community is organized into several key governance and operational bodies, each with specific responsibilities and goals:
+
+### 📋 [Board](./board.md)
+The governing board responsible for strategic oversight, organizational policies, and high-level decision making for the Danish Data Science Community.
+
+### 🚀 [Event Committee](./event.md)
+Dedicated to organizing and coordinating community events, workshops, conferences, and networking opportunities for our members.
+
+### 💻 [Open Source Committee](./open-source.md)
+Focused on promoting open source initiatives, managing community GitHub repositories, technical partnerships, and fostering collaborative development within the data science ecosystem.
+
+## Getting Involved
+
+Each committee is actively seeking engaged members who want to contribute to the growth and success of the Danish Data Science Community. Please review the individual committee documents to learn about their specific goals, meeting schedules, and how to get involved.
+
+## Contact
+
+For general inquiries about the organization or to express interest in joining any of our committees, please reach out through our established communication channels listed in each committee's documentation.
+
+---
+
+*This documentation is maintained by the Danish Data Science Community. Last updated: $(date '+%B %Y')*
