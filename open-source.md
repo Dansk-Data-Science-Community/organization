@@ -2,25 +2,25 @@
 
 ## Purpose and Vision
 
-We want to help foster an active and large AI/ML/DS open-source community in Denmark and create new, good projects for all.
+We aim to foster an active and vibrant AI/ML/DS open-source community in Denmark and create new, high-quality projects for everyone.
 
-Open-source is the backbone of the stack and data many of us use, and we want to make it easier to contribute to this and guide users.
+Open source is the backbone of the stack and data many of us use, and we want to make it easier to contribute and guide users.
 
-We want to make into DDSC into an open-source organisation.
+We want to transform DDSC into an open-source organization.
 
-Furthermore, we want to help bridge contributors and interested parties. Among others to help close the ressource gap many open-source projects face as well solve questions on terms of use and ethics.
+Furthermore, we want to help bridge contributors and interested parties, including closing the resource gap many open-source projects face, as well as addressing questions regarding terms of use and ethics.
 
 ## Goals
 
-**Lead and help the development of open source tools, datasets, models.**
+**Lead and support the development of open-source tools, datasets, and models.**
 
-**Recognize great open source projects and contributors.**
+**Recognize outstanding open-source projects and contributors.**
 
-**Increase the use and contributions to existing open source projects.**
+**Increase the use of and contributions to existing open-source projects.**
 
 **Provide resources to new open-source projects.**
 
-**Bridge developers, authorities, researchers, civil society and more.**
+**Connect developers, authorities, researchers, civil society, and more.**
 
 ## Structure
 
@@ -28,9 +28,9 @@ Furthermore, we want to help bridge contributors and interested parties. Among o
 Every other month.
 
 ### Communication Channels
-The [DDSC Slack](https://danskdatascie-o8m9638.slack.com/) and [Github](https://github.com/orgs/Dansk-Data-Science-Community/teams/ddsc-os-committee).
+The [DDSC Slack](https://danskdatascie-o8m9638.slack.com/) and [GitHub](https://github.com/orgs/Dansk-Data-Science-Community/teams/ddsc-os-committee).
 
-We can also be reached through the [DDSC email](ddsc.kontakt@gmail.com).
+We can also be reached through the [DDSC email](mailto:ddsc.kontakt@gmail.com).
 
 ## Members and Roles
 
