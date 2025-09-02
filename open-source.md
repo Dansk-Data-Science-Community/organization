@@ -6,7 +6,9 @@ We want to help foster an active and large AI/ML/DS open-source community in Den
 
 Open-source is the backbone of the stack and data many of us use, and we want to make it easier to contribute to this and guide users.
 
-Furthermore, we want to help bridge contributors and interested parties. Among others to help close the ressource gap many open-source projects face as well solve questions on terms of use and ethics. 
+We want to make into DDSC into an open-source organisation.
+
+Furthermore, we want to help bridge contributors and interested parties. Among others to help close the ressource gap many open-source projects face as well solve questions on terms of use and ethics.
 
 ## Goals
 
