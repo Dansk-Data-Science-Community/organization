@@ -2,19 +2,12 @@
 
 ## Purpose and Vision
 
-(Describe the committee's purpose and vision here.)
-
-## Goals
-
-(List the committee's goals. Are they monthly, yearly or something else? How is success of each goal measured?)
-
-## Structure
-
-### Meeting Schedule
-(Describe how often the committee meets and through which platforms)
+The event comittee organises open events such as meetups and the general assembly for DDSC members.
 
 ### Communication Channels
-(List the primary ways members and stakeholders should communicate with the committee)
+Find events at [ddsc.io/events](https://ddsc.io/events/) and be sure to check out the
+[Slack](https://danskdatascie-o8m9638.slack.com/) 
+and the [DDSC LinkedIn page](https://www.linkedin.com/company/danish-data-science-community).
 
 ## Members and Roles
 
@@ -31,4 +24,4 @@
 
 ## Responsibility Areas
 
-(Etc. Event organizing, Newsletter, Slack, NVIDIA/Arrow partnership, GitHub Org, etc.)
+Event organizing.
